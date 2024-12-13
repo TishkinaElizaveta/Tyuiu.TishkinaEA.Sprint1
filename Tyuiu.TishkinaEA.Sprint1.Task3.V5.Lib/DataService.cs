@@ -8,6 +8,7 @@ namespace Tyuiu.TishkinaEA.Sprint1.Task3.V5.Lib
         {
             double distanceInKm = mapScale * distanceBetweenPoints;
             return Math.Round(distanceInKm, 3);
+
         }
     }
 }
